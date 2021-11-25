@@ -3,8 +3,8 @@
     background: url(Black_SkinNo_Buttons.png);
     height: 700px;
     width: 1200px;
-    /*    margin-left: -403px;
-        margin-top: -280px;*/
+    margin-left: -403px;
+    margin-top: -280px;
 }
 
 .ds4.disconnected div {
