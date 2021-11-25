@@ -39,7 +39,7 @@
     width: 200px;
     height: 45px;
     background: url(Bumper.png) no-repeat;
-    opacity: 0;
+    opacity: 0.8;
 }
 
 .ds4 .bumpers {
