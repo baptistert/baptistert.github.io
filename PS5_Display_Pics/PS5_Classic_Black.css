@@ -23,7 +23,7 @@
     width: 99px;
     height: 100%;
     background: url(Trigger_Pressed.png);
-    opacity: 1;
+    opacity: 0.6;
 }
 
 .ds4 .trigger.left {
@@ -51,6 +51,9 @@
 }
 
 .ds4 .bumper.pressed {
+    width: 200px;
+    height: 45px;
+    background: url(Bumper.png) no-repeat;
     opacity: 1;
 }
 
